@@ -1,0 +1,62 @@
+/* Kenapa Memilih Kami */
+.why-choose-us {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+}
+
+.why-choose-us .row {
+    display: flex;
+    align-items: center; /* Agar gambar dan teks sejajar */
+}
+
+.why-choose-us img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.why-choose-us .content {
+    padding: 20px;
+}
+
+.why-choose-us h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.why-choose-us p {
+    font-size: 1.1rem;
+    color: #555;
+}
+/* Kenapa Memilih Kami */
+.why-choose-us {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+}
+
+.why-choose-us .row {
+    display: flex;
+    align-items: center; /* Agar gambar dan teks sejajar */
+}
+
+.why-choose-us img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.why-choose-us .content {
+    padding: 20px;
+}
+
+.why-choose-us h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.why-choose-us p {
+    font-size: 1.1rem;
+    color: #555;
+}
